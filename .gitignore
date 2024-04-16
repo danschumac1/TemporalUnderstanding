@@ -8,3 +8,5 @@ token.txt
 /TQ
 /TSQA
 /final
+/artifacts
+/dataeval_packed_alpaca.jsonl
