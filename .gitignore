@@ -4,3 +4,7 @@ AQA_val.csv
 TQ.csv
 .env
 /wandb
+token.txt
+/TQ
+/TSQA
+/final
